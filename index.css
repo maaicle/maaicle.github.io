@@ -1,8 +1,49 @@
-h1 {
-    color: green;
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
-.fa-mountain {
-    color: blue;
-    font-size: 48px;
+header {
+    position: fixed;
+    background-color: black;
+    width: 100vw;
+    height: 50px;
 }
+
+.card {
+    color: antiquewhite;
+    height: 100vh;
+    width: 100vw;
+    border: solid;
+}
+
+.hello-top {
+    /* position:sticky; */
+    width: 100vw;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-image: url(./hello.png); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* background-position: center; */
+    /* background-attachment: fixed; */
+}
+
+.card-1 {
+    /* background-color: #FAFF1A */
+}
+
+.hello-top-2 {
+    position:sticky;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 200vh;
+    /* background-image: url(./Michael-Hardcastle-bw.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; */
+}
+
