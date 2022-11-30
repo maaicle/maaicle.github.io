@@ -18,6 +18,7 @@ body {
 .nav-link {
     font-weight: bold;
     font-family: Roboto,Arial,sans-serif;
+    color: black;
 }
 
 .head-space {
