@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+.nav-item {
+    width: 120px;
+    background-color: #FAFF1A;
+}
+
+.navbar-toggler {
+    background-color: #FAFF1A;;
+}
+
+.navbar-nav {
+    flex-basis:100%;
+}
+
+.nav-link {
+    font-weight: bold;
+    font-family: Roboto,Arial,sans-serif;
+}
+
+.head-space {
+    height: 60px;
+}
+
+.name-haeader {
+    background-color: #FAFF1A;
+}
+
+.beard {
+    max-height: 600px;
+}
+
+.contact-row {
+    background-color: #FAFF1A;
+}
+
+.contact-links {
+    background-color: #FAFF1A;
+}
